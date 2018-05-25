@@ -1,0 +1,15 @@
+xft.dpi:96
+URxvt.font: xft:WenQuanYi Micro Hei Mono:size=16:style=regular:antialias=true
+URxvt.scrollBar:                false
+! Color settings
+URxvt*background:  Black
+URxvt*foreground:  White
+URxvt*fading:  30
+
+! Input method
+URxvt.multichar_encoding:utf-8
+URxvt.imLocale:zh_CN.UTF-8
+URxvt.inputMethod:fcitx
+
+Xcursor.theme: xcursor-breeze
+Xcursor.size: 0
